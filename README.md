@@ -14,6 +14,8 @@
 
 Lien ici : https://inphinie.github.io/Lichen-Collectives/
 
+Lettre ouverte ici : https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md
+
 ---
 
 ## 🌱 **Qui je suis**
