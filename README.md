@@ -12,6 +12,8 @@
 # 🌿 **Lichen‑Collectives**  
 ### *Profil de BryanΩ — Architecte du Mouvement, Semeur de Structures Vivantes*
 
+Lien ici : https://inphinie.github.io/Lichen-Collectives/
+
 ---
 
 ## 🌱 **Qui je suis**
