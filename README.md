@@ -2,8 +2,6 @@
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_SYMBIOSIS-green) ![Class](https://img.shields.io/badge/CLASS-ARCHITECT-orange) ![System](https://img.shields.io/badge/SYSTEM-GAME_B-blueviolet)
 
-### *Status Class System — Profil de BryanΩ*
-
 > *« Nous ne sommes pas venus réparer leur système.  
 > Nous sommes venus coder le nôtre. »*
 
