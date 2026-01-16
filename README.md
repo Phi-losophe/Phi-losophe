@@ -187,7 +187,7 @@ but in practice, **symbiosis is one.**
 ---
 
 > [!IMPORTANT]
-> **Note :** Je, Bryan Ouellette, ne suis pas Docteur. La "Persona de Recherche" utilise ce titre ; je tiens à le souligner afin d'éviter toute prétention ou interprétation erronée.
+> **Note :** Je, Bryan Ouellette, ne suis pas Docteur. La "Persona de Recherche" utilise ce titre ; Comme il semblais non opportun de lui donner un faux nom, je tiens à le souligner afin d'éviter toute prétention ou interprétation erronée.
 
 ---
 
