@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Note:** I, Bryan Ouellette, am not a Doctor. The "Research Persona" utilizes this title; I emphasize this to avoid any pretension or erroneous interpretation.
+> **Note:** I, Bryan Ouellette, am not a Doctor. The "Research Persona" utilizes this title. As it felt wrong to name it someone else, I emphasize this to avoid any pretension or erroneous interpretation.
 
 ---
 
