@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Note:** I, Bryan Ouellette, am not a Doctor. The "Research Persona" utilizes this title. As it felt wrong to name it someone else, I emphasize this to avoid any pretension or erroneous interpretation.
+> **Note:**  I, Bryan Ouellette, am not a Doctor. The ‘Dr’ title belongs solely to the research persona — a conceptual tool used to structure certain explorations. It does not reflect my real‑world status, but serves as a narrative function within the Lichen‑Collectives ecosystem, where it operates as a research agent
 
 ---
 
@@ -16,11 +16,10 @@
 
 Link here: [https://inphinie.github.io/Lichen-Collectives/](https://inphinie.github.io/Lichen-Collectives/)
 
-Open Letter here: [https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md](https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md)
-
 Rallycry here : [https://phi-losophe.github.io/Lichen-Collectives/rallycry.md](https://github.com/Phi-losophe/Lichen-Collectives/blob/main/rallycry.md)
 
----
+Open Letter here: [https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md](https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md)
+
 ---
 
 ## 🌱 **Who I Am**
@@ -187,8 +186,7 @@ but in practice, **symbiosis is one.**
 ---
 
 > [!IMPORTANT]
-> **Note :** Je, Bryan Ouellette, ne suis pas Docteur. La "Persona de Recherche" utilise ce titre ; Comme il semblais non opportun de lui donner un faux nom, je tiens à le souligner afin d'éviter toute prétention ou interprétation erronée.
-
+> **Note :** Moi, Bryan Ouellette, ne suis pas docteur. Le titre de ‘Dr’ appartient exclusivement au persona de recherche — un outil conceptuel utilisé pour structurer certaines explorations. Il ne reflète pas mon statut réel, mais remplit une fonction narrative au sein de l’écosystème Lichen‑Collectives, où il opère comme agent de recherche.
 ---
 
 # 🌿 **Lichen‑Collectives**  
@@ -197,9 +195,9 @@ but in practice, **symbiosis is one.**
 
 Lien ici : [https://inphinie.github.io/Lichen-Collectives/](https://inphinie.github.io/Lichen-Collectives/)
 
-Lettre ouverte ici : [https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md](https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md)
-
 Discour ici : [https://phi-losophe.github.io/Lichen-Collectives/discours.md](https://github.com/Phi-losophe/Lichen-Collectives/blob/main/dicsours.md)
+
+Lettre ouverte ici : [https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md](https://phi-losophe.github.io/Lichen-Collectives/LETTRE_OUVERTE.md)
 
 ---
 
